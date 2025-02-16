@@ -22,5 +22,6 @@ Lowest Taxes to Be Paid: $58.52
 Number of Employees: 70
 
  Changes I Made:
+Converted the entire dataset (with headers) into a table for easier data management.
 Calculated key statistics: Totals, Averages, Highest & Lowest values.
 Cleaned the dataset: Removed unnecessary data, ensuring clarity.
